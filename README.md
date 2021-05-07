@@ -1,4 +1,9 @@
-## Welcome to my page
+## Hi!
+
+My name is Yasna Palmeiro, I'm really interested in learning programming, climate change and population health. 
+Here, I'll have some thoughts and proyects for myself.. 
+
+🛺
 
 You can use the [editor on GitHub](https://github.com/ypalmeirosilva/mypage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
